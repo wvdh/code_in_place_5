@@ -1,7 +1,7 @@
 # Stanford | Code in Place 2025
 
 ## Hailstone<br>
-<br>
+
 Douglas Hofstadter’s Pulitzer-prize-winning book Gödel, Escher, Bach contains many interesting mathematical puzzles, many of which can be expressed in the form of computer programs. In Chapter XII, Hofstadter mentions a wonderful problem:
 
 Pick some positive integer and call it n.<br>
