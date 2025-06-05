@@ -1,4 +1,4 @@
-# Stanford - Code in Place 5
+# Stanford | Code in Place 2025
 
 ## Khansole Academy - Three in a row
 
