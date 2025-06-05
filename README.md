@@ -49,4 +49,6 @@ In Code in Place you will learn the fundamentals of Python programming including
 - [Information Session Video](https://www.youtube.com/watch?v=2rimv2a1o3I)
 - [Reddit Discussion](https://www.reddit.com/r/learnprogramming/comments/1jm94f5/free_python_classes_stanford_university_code_in/)
 
+## 🤖 Karel the Robot
 
+![alt text](karel-the-robot.png)
