@@ -52,3 +52,7 @@ In Code in Place you will learn the fundamentals of Python programming including
 ## 🤖 Karel the Robot
 
 ![alt text](karel-the-robot.png)
+
+## 🎓 Certificate 6 june 2025
+
+**[Certificate Stanford Code in Place 2025](Certificaat_Stanford_Code_in_Place_2025.pdf)**
