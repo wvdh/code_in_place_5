@@ -55,4 +55,4 @@ In Code in Place you will learn the fundamentals of Python programming including
 
 ## 🎓 Certificate 6 june 2025
 
-**[Certificate Stanford Code in Place 2025](Certificaat_Stanford_Code_in_Place_2025.pdf)**
+- **[Certificate Stanford Code in Place 2025](Certificaat_Stanford_Code_in_Place_2025.pdf)**
